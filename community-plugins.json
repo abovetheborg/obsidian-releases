@@ -58833,5 +58833,12 @@
     "author": "gengsta1",
     "description": "Sync embedded Synki blocks from Obsidian notes to Anki. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "gengsta1/synki"
-  }
+  },
+  {
+  "id": "oauth-token-fetcher",
+  "name": "OAuth Token Fetcher",
+  "author": "abovetheborg",
+  "description": "Periodically fetches an OAuth2 client-credentials token and stores it in Obsidian's SecretStorage so other plugins can use it.",
+  "repo": "abovetheborg/obsidian-oauth-token-fetcher"
+}
 ]
